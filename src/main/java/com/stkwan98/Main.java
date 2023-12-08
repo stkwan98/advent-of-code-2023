@@ -2,8 +2,6 @@ package com.stkwan98;
 
 import com.stkwan98.day1.Day1;
 
-import java.io.IOException;
-
 public class Main {
     public static final String DAY_1_INPUT_PATH = "src/main/resources/input.txt";
     public static void main(String[] args) {
